@@ -2,22 +2,9 @@
 
 Knows stuff from random thingies. 1st year ECE student (i do not belong here... maybe)
 
-Front-end:
+Flutter, React, Hono, Golang, Python, C, PSQL, Docker, Linux.
 
-- Flutter (I loooove nesting hell)
-- React (specifically TS cuz type sh-)
-
-Back-end:
-
-- Go (Trauma from dynamically typed languages brought me here)
-- Python (FastAPI, I despise the type system)
-- Relational DBs (PSQL specifically)
-
-Dev Ops:
-
-- Linux (arch btw)
-- Docker (makes life so much easier thank god for this technology)
-- K8s (maybe we've gone too far...)
+Javascript development is 💀, needed for work though. The world should just go back to LAMP stack (clueless)
 
 Also studying Open Source Society University's Computer Science
 Everything here is overly ambitious just to pressure myself
